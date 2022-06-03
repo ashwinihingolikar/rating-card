@@ -132,7 +132,7 @@ button{
     font-size: 2.5rem;
 }
 /* phone screen */
-@media screen and (max-width: 420px) {
+@media screen and (max-width:420px) {
     .interacting-card, .success-card{
         margin: 2rem;
     }
